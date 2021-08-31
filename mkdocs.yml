@@ -1,4 +1,5 @@
 site_name: pig-eyes-diy
+site_url: https://ocampco.github.io/pig-eyes-diy/
 theme:
   name: gitbook
   palette:
