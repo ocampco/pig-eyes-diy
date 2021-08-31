@@ -1,6 +1,6 @@
 site_name: pig-eyes-diy
 theme:
-  name: material
+  name: gitbook
   palette:
     - scheme: default
       primary: white
