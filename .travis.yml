@@ -5,7 +5,7 @@ services:
 
 branches:
   only:
-  - gh-pages
+  - master
 
 script:
   - ./auto/deploy
