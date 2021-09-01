@@ -13,14 +13,8 @@ Documentation site using [mkdocs](https://github.com/mkdocs/mkdocs)
 Ensure you have [python](https://www.python.org/) installed
 
 ```sh
-# Install mkdocs
-$ pip install mkdocs
-
-# Install theme
-$ pip install mkdocs-gitbook
-
-# Install plugins
-$ pip install mkdocs-git-revision-date-plugin
+# Install dependencies
+$ pip install -r ./requirements.txt
 
 # Run app
 $ mkdocs serve
