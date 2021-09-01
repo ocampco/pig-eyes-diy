@@ -12,4 +12,7 @@ nav:
   - Suspension: suspension.md
 
 extra_css:
-    - styles.css
+  - styles.css
+
+plugins:
+  - git-revision-date

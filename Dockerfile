@@ -2,6 +2,7 @@ FROM python:latest
 
 RUN pip install mkdocs
 RUN pip install mkdocs-gitbook
+RUN pip install mkdocs-git-revision-date-plugin
 
 WORKDIR /app
 

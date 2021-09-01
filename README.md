@@ -19,6 +19,9 @@ $ pip install mkdocs
 # Install theme
 $ pip install mkdocs-gitbook
 
+# Install plugins
+$ pip install mkdocs-git-revision-date-plugin
+
 # Run app
 $ mkdocs serve
 ```
