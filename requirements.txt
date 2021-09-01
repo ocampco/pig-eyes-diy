@@ -2,3 +2,4 @@ mkdocs
 mkdocs-gitbook
 mkdocs-git-revision-date-plugin
 mkdocs-section-index
+pymdown-extensions

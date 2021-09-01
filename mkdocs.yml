@@ -7,15 +7,20 @@ repo_url: https://github.com/ocampco/pig-eyes-diy
 theme:
   name: gitbook
 
+extra_css:
+  - styles.css
+
+markdown_extensions:
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_alt
+
+plugins:
+  - git-revision-date
+  - section-index
+
 nav:
   - Home: index.md
   - Suspension:
     - ./suspension/index.md
     - Coilovers: ./suspension/coilovers.md
-
-extra_css:
-  - styles.css
-
-plugins:
-  - git-revision-date
-  - section-index
