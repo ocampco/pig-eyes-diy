@@ -9,10 +9,13 @@ theme:
 
 nav:
   - Home: index.md
-  - Suspension: suspension.md
+  - Suspension:
+    - ./suspension/index.md
+    - Coilovers: ./suspension/coilovers.md
 
 extra_css:
   - styles.css
 
 plugins:
   - git-revision-date
+  - section-index
