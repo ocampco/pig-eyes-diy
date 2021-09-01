@@ -1,4 +1,13 @@
-h1 > a.headerlink, 
+/* toc */
+.toc-permalink-override {
+  margin-left: 0.5rem;
+}
+
+h1 > a.toc-permalink-override {
+  display: none;
+}
+
+/* search */
 #book-search-input,
 .search-results-title,
 .search-results-list {
