@@ -11,6 +11,9 @@ extra_css:
   - styles.css
 
 markdown_extensions:
+  - toc:
+      permalink: '&#128279;'
+      toc_depth: '2-6'
   - pymdownx.details
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_alt
