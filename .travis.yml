@@ -1,0 +1,11 @@
+language: python
+
+services:
+  - docker
+
+branches:
+  only:
+  - gh-pages
+
+script:
+  - ./auto/deploy
