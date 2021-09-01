@@ -1,10 +1,9 @@
-# :pig: pig-eyes-diy [![Build Status](https://app.travis-ci.com/ocampco/pig-eyes-diy.svg?branch=master)](https://app.travis-ci.com/ocampco/pig-eyes-diy)
+# :pig: pig-eyes-diy
 
 Documentation site using [mkdocs](https://github.com/mkdocs/mkdocs)
 
 ### Links
 
-- [Build](https://app.travis-ci.com/github/ocampco/pig-eyes-diy)
 - [Production](https://ocampco.github.io/pig-eyes-diy/)
 
 ## :runner: Running
