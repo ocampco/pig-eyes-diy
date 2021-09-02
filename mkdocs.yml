@@ -23,6 +23,8 @@ markdown_extensions:
       toc_depth: '2-6'
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_alt
+  - admonition
+  - pymdownx.details
 
 plugins:
   - section-index

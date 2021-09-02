@@ -6,11 +6,12 @@
 
 ## Front Coilovers
 
-:warning: **Warning:** Stub axles must be welded to _most_ aftermarket coilovers
+??? warning "Requires welding"
+    - Stub axles must be cut from your existing shocks
+    - Stub axles need to be welded to _most_ coilovers
 
-:key: **Key Information:**
-
-- Bolt spacing: `90mm`
+!!! info "Key Information"
+    - Bolt spacing: `90mm`
 
 ### Options
 
