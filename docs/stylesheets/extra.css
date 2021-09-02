@@ -4,7 +4,11 @@
   font-size: 75%;
 }
 
-h1 > a.toc-permalink-override {
+h1 > a.toc-permalink-override,
+h3 > a.toc-permalink-override,
+h4 > a.toc-permalink-override,
+h5 > a.toc-permalink-override,
+h6 > a.toc-permalink-override {
   display: none;
 }
 
