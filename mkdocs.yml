@@ -20,7 +20,7 @@ markdown_extensions:
   - toc:
       permalink: '&#128279;'
       permalink_class: 'toc-permalink-override'
-      toc_depth: '2'
+      toc_depth: '2-3'
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_alt
   - admonition

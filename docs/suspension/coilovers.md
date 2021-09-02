@@ -13,9 +13,7 @@
 !!! info "Key Information"
     - Lower bolt spacing: `90mm`
 
-### Options
-
-####  MX32 Cressida
+###  MX32 Cressida
 
 - Offered by [TechnoToyTuning](https://technotoytuning.com/toyota/mx32/front-coilover-conversion-mx32-cressida)
 - Strut tower holes don't require modification
@@ -24,13 +22,13 @@
 
 ![TechnoToyTuning MX32 Cressida coilovers](./img/front-coilovers-t3-techno-toy-tuning.jpg)
 
-#### MX73 Cressida
+### MX73 Cressida
 
 - Strut tower holes must be elongated
 - Camber adjustment will sit on a 45 degree angle
 - Requires a shorter spring or coilover casing to go super low
 
-#### S13 Silvia (camber tops)
+### S13 Silvia (camber tops)
 
 !!! Warning "Not verified - Citation needed"
 
