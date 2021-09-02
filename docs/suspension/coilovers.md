@@ -30,9 +30,14 @@
 
 ### S13 Silvia (camber tops)
 
-!!! Warning "Not verified - Citation needed"
-
 - Strut tower holes must be elongated
+
+!!! quote
+    We moved my top back, but that's X32 pattern with the holes drilled out. Should be able to just open up two of the holes bigger, or you can do all three.
+
+    _- [@dooogs73](https://www.instagram.com/dooogs73/)_
+
+![MX32 Cressida S13 Silvia camber tops](./img/front-coilovers-s13.jpg)
 
 ---
 
