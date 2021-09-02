@@ -7,3 +7,8 @@
 h1 > a.toc-permalink-override {
   display: none;
 }
+
+/* mkdocs-material */
+footer {
+  display: none;
+}
