@@ -19,6 +19,10 @@ h1 + .toc {
 }
 
 /* mkdocs-material */
+.md-content {
+  max-width: 768px;
+}
+
 footer {
   display: none;
 }
