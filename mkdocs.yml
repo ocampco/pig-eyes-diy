@@ -2,7 +2,6 @@ site_name: Pig Eyes DIY
 site_url: https://ocampco.github.io/pig-eyes-diy
 site_description: Resource for Toyota/Toyopet Mark II, Chaser, Cresta and Cressida
 site_author: ocampco
-repo_url: https://github.com/ocampco/pig-eyes-diy
 
 theme:
   name: material
