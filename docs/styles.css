@@ -7,10 +7,3 @@
 h1 > a.toc-permalink-override {
   display: none;
 }
-
-/* search */
-#book-search-input,
-.search-results-title,
-.search-results-list {
-  display: none;
-}

@@ -1,5 +1,2 @@
-mkdocs
-mkdocs-gitbook
+mkdocs-material
 mkdocs-git-revision-date-plugin
-mkdocs-section-index
-pymdown-extensions

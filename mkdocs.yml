@@ -5,7 +5,7 @@ site_author: ocampco
 repo_url: https://github.com/ocampco/pig-eyes-diy
 
 theme:
-  name: gitbook
+  name: material
 
 extra_css:
   - styles.css
@@ -15,13 +15,11 @@ markdown_extensions:
       permalink: '&#128279;'
       permalink_class: 'toc-permalink-override'
       toc_depth: '2-6'
-  - pymdownx.details
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_alt
 
 plugins:
   - git-revision-date
-  - section-index
 
 nav:
   - Home: index.md

@@ -47,6 +47,3 @@ _Credit: [Jimmy Conway](https://www.facebook.com/groups/216354961906562/posts/51
 - S14
 - R33
 - RA60
-
-
-_Last edited {{ git_revision_date }}_
