@@ -35,3 +35,5 @@ nav:
   - Suspension:
     - ./suspension/index.md
     - Coilovers: ./suspension/coilovers.md
+  - Exterior:
+    - ./exterior/index.md
