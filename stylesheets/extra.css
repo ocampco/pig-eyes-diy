@@ -1,0 +1,32 @@
+/* toc */
+.toc-permalink-override {
+  margin-left: 0.5rem;
+  font-size: 75%;
+}
+
+h1 > a.toc-permalink-override,
+h3 > a.toc-permalink-override,
+h4 > a.toc-permalink-override,
+h5 > a.toc-permalink-override,
+h6 > a.toc-permalink-override {
+  display: none;
+}
+
+@media (max-width: 480px) {
+  h1 + .toc {
+    display: block !important;
+  }
+}
+
+h1 + .toc {
+  display: none;
+}
+
+/* mkdocs-material */
+.md-content {
+  max-width: 768px;
+}
+
+footer {
+  display: none;
+}
