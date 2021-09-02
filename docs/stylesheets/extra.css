@@ -8,6 +8,16 @@ h1 > a.toc-permalink-override {
   display: none;
 }
 
+@media (max-width: 480px) {
+  h1 + .toc {
+    display: block !important;
+  }
+}
+
+h1 + .toc {
+  display: none;
+}
+
 /* mkdocs-material */
 footer {
   display: none;
