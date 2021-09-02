@@ -6,6 +6,9 @@ repo_url: https://github.com/ocampco/pig-eyes-diy
 
 theme:
   name: material
+  palette:
+    primary: white
+    accent: pink
 
 extra_css:
   - styles.css
