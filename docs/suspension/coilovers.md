@@ -6,32 +6,30 @@
 
 ## Front Coilovers
 
-??? warning "Requires welding"
+!!! warning "Requires welding"
     - Stub axles must be cut from your existing shocks
-    - Stub axles need to be welded to _most_ coilovers
+    - Stub axles need to be welded to _most_ coilover casings
 
 !!! info "Key Information"
     - Bolt spacing: `90mm`
 
 ### Options
 
-:heart: **Bolt in:**
+####  MX32 Cressida
 
-[TechnoToyTuning (T3) for MX32 Cressida](https://technotoytuning.com/toyota/mx32/front-coilover-conversion-mx32-cressida)
-
+- Offered by [TechnoToyTuning](https://technotoytuning.com/toyota/mx32/front-coilover-conversion-mx32-cressida)
+- Strut tower holes don't require modification
 - May come with stub axles pending stock
 - Custom spring rate available
 
 ![TechnoToyTuning coilovers](./img/t3-techno-toy-tuning-front-coilovers.jpg)
 
-_Credit: [Jimmy Conway](https://www.facebook.com/groups/216354961906562/posts/519522961589759/)_
+_Source: [Jimmy Conway](https://www.facebook.com/groups/216354961906562/posts/519522961589759/)_
 
-:broken_heart: **Requires modification:**
+#### MX73 Cressida
 
-[BC Racing for MX73 Cressida](https://bcracing.com.au/collections/toyota-cressida-mx73-85-88)
-
-- Strut top holes must be slightly massaged
-- Camber plates will sit on a 45 degree angle
+- Strut tower holes must be slightly massaged
+- Camber adjustment will sit on a 45 degree angle
 - Requires a shorter spring or coilover casing to go super low
 
 ---
@@ -44,6 +42,8 @@ _Credit: [Jimmy Conway](https://www.facebook.com/groups/216354961906562/posts/51
 ---
 
 ## Rear Springs
+
+### Sedan (solid axle)
 
 - S14
 - R33
