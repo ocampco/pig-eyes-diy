@@ -17,6 +17,7 @@ Ensure you have [python](https://www.python.org/) installed
 $ pip install -r ./requirements.txt
 
 # Run app
+# Served at http://localhost:8000/pig-eyes-diy/
 $ mkdocs serve
 ```
 
@@ -29,6 +30,7 @@ Ensure you have [Docker](https://www.docker.com/) installed
 $ ./auto/build
 
 # Run app
+# Served at http://localhost:8000/pig-eyes-diy/
 $ ./auto/run
 ```
 
