@@ -8,11 +8,11 @@ The motivation for this site is to document **proven modifications.** All data h
 
 ## Changelog
 
-!!! note "In Progress"
-    - Electronics: Dashboard
-    - Electronics: Wiring Diagrams
+!!! success "Recently completed"
+    - [Electronics: Dashboard](./electronics/dashboard.md)
 
-!!! example "Planned"
+!!! example "Backlog"
+    - Electronics: Wiring Diagrams
     - Wheel and Tyre: Tyre
     - Wheel and Tyre: Wheel
     - Wheel and Tyre: Examples
