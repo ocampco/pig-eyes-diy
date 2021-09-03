@@ -65,6 +65,14 @@ _Source: [@dooogs73](https://www.instagram.com/dooogs73/)_
 
 ### Sedan (solid axle)
 
+!!! info "Key Information"
+    - Free height: 415mm
+    - Top OD: 134mm
+    - Top ID: 108mm
+    - Bottom OD: 109mm
+    - Bottom ID: 85mm
+    - _Source: [Clint Castellano](https://www.facebook.com/notes/x3-chassis-cressida-club/x3x4-cressidamark-iichaser-faq/677056622503058/)_
+
 #### S14/R33 Skyline (rear)
 
 !!! quote
