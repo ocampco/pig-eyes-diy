@@ -1,5 +1,5 @@
 # Electronics
 
-#### Topics
+#### Content
 
 - [Dashboard](./dashboard.md)

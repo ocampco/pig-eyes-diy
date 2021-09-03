@@ -14,23 +14,27 @@ h6 > a.toc-permalink-override {
 
 /* toc - headings and content */
 #table-of-contents + .toc,
-#related-topics + ul {
+h4#content + ul,
+#related-content + ul {
   display: block;
 }
 
 #table-of-contents,
-#related-topics {
+h4#content,
+#related-content {
   display: block;
 }
 
 @media (min-width: 76.25rem) {
   #table-of-contents + .toc,
-  #related-topics + ul {
+  h4#content + ul,
+  #related-content + ul {
     display: none !important;
   }
 
   #table-of-contents,
-  #related-topics {
+  h4#content,
+  #related-content {
     display: none !important;
   }
 }

@@ -1,6 +1,6 @@
 # Suspension
 
-#### Topics
+#### Content
 
 - [Front Coilovers](front-coilovers.md)
 - [Rear Shocks](rear-shocks.md)

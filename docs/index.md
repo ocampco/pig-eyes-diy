@@ -2,7 +2,17 @@
 
 Documentation for the X30/X40 Toyota/Toyopet Mark II, Chaser, Cresta and Cressida. Also referred to as _'pig eyes'_ (豚目).
 
-The motivation for this site is to document **proven modifications.** All data has been crowdsourced with references. Please contact me [@ocampus](https://www.instagram.com/ocampus/) to contribute.
+The motivation for this site is to document **proven modifications.** All data has been crowdsourced and references have been provided.
+
+Thank you to all who have contributed. Please contact [@ocampus](https://www.instagram.com/ocampus/) for any additions, amendments or feedback.
+
+---
+
+## Content
+
+- [Suspension](./suspension/index.md)
+- [Exterior](./exterior/index.md)
+- [Electronics](./electronics/index.md)
 
 ---
 
@@ -16,3 +26,5 @@ The motivation for this site is to document **proven modifications.** All data h
     - Wheel and Tyre: Tyre
     - Wheel and Tyre: Wheel
     - Wheel and Tyre: Examples
+
+---

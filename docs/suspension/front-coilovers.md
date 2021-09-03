@@ -1,6 +1,6 @@
 # Front Coilovers
 
-#### Related Topics
+#### Related Content
 
 - [Rear Shocks](rear-shocks.md)
 - [Rear Springs](rear-springs.md)
