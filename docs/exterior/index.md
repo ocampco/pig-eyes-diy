@@ -1,5 +1,7 @@
 # Exterior
 
+![Exterior](./img/exterior-placeholder.jpg)
+
 #### Table of Contents
 
 [TOC]
