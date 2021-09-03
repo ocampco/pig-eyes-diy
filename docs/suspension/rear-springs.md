@@ -4,6 +4,7 @@
 
 - [Front Coilovers](front-coilovers.md)
 - [Rear Shocks](rear-shocks.md)
+- [Lower Control Arms](lower-control-arms.md)
 
 #### Table of Contents
 

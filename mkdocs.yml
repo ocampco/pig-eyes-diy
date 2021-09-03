@@ -39,6 +39,7 @@ nav:
     - 'Front Coilovers': ./suspension/front-coilovers.md
     - 'Rear Shocks': ./suspension/rear-shocks.md
     - 'Rear Springs': ./suspension/rear-springs.md
+    - 'Lower Control Arms': ./suspension/lower-control-arms.md
   - Exterior:
     - ./exterior/index.md
   - Electronics:

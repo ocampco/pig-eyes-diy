@@ -23,6 +23,7 @@ Thank you to all who have contributed. Please contact [@ocampus](https://www.ins
 !!! success "Recently completed"
     - [Electronics: Dashboard](./electronics/dashboard.md)
     - [Electronics: Wiring](./electronics/wiring.md)
+    - [Suspension: Lower Control Arms](./suspension/lower-control-arms.md)
 
 !!! example "Backlog"
     - Wheel and Tyre: Tyre
