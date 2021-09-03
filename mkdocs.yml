@@ -16,7 +16,7 @@ theme:
   favicon: ./assets/logo.png
 
 extra_css:
-  - ./assets/stylesheets/extra.css
+  - ./assets/extra.css
 
 markdown_extensions:
   - toc:
