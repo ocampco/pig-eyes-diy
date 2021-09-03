@@ -53,3 +53,12 @@ _Source: [Josh Tomlinson](https://www.facebook.com/groups/216354961906562/posts/
 ![R33 Skyline rear springs on MX32 Cressida](./img/suspension-rear-springs-r33-matthew-long.jpg)
 
 _Source: [Matthew Long](https://www.facebook.com/groups/216354961906562/posts/1023936224481761?comment_id=1023948557813861)_
+
+### RA60 Celica (rear)
+
+!!! quote
+    My springs front and rear are ra60 they go straight in. Rides fine for springs
+
+    _- [Matthew Sammut](facebook.com/matthew.sammut.927)_
+
+![RA60 Celica rear springs on MX32 Cressida](./img/suspension-rear-springs-ra60-matthew-sammut.jpg)
