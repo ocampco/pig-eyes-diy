@@ -63,4 +63,6 @@ _Source: [Meekzilla Paul](https://www.facebook.com/groups/216354961906562/posts/
 
 ![MX32 Cressida North America](./img/exterior-rear-mx32-s1-na.jpg)
 
+_Note: Side moulding has been removed on this example_
+
 _Source: [Meekzilla Paul](https://www.facebook.com/groups/216354961906562/posts/1340269992848381/)_
