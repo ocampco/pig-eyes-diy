@@ -22,6 +22,18 @@
     - Bottom ID: 85mm
     - _Source: [Clint Castellano](https://www.facebook.com/notes/x3-chassis-cressida-club/x3x4-cressidamark-iichaser-faq/677056622503058/)_
 
+### MX73 Cressida (rear)
+
+!!! quote
+    - Spring does not completely fit on the perch but it works
+    - Comfortable enough
+
+    _- [@ocampus](https://www.instagram.com/ocampus/)_
+
+![MX73 rear springs on MX32 Cressida](./img/suspension-rear-springs-mx73.jpg)
+
+_Source: [@ocampus](https://www.instagram.com/p/B0a07ZOHYd3/)_
+
 ### S14/R33 Skyline (rear)
 
 !!! quote
