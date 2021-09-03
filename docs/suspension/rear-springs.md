@@ -2,9 +2,9 @@
 
 #### Related Content
 
+- [Front Coilovers](front-coilovers.md)
 - [Steering Arms](steering-arms.md)
 - [Rear Shocks](rear-shocks.md)
-- [Lower Control Arms](lower-control-arms.md)
 
 #### Table of Contents
 

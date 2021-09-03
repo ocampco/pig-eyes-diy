@@ -2,8 +2,8 @@
 
 #### Related Content
 
-- [Steering Arms](steering-arms.md)
 - [Front Coilovers](front-coilovers.md)
+- [Steering Arms](steering-arms.md)
 - [Rear Springs](rear-springs.md)
 
 #### Table of Contents
