@@ -37,3 +37,4 @@ nav:
     - Coilovers: ./suspension/coilovers.md
   - Exterior:
     - ./exterior/index.md
+    - 'Wheel and Tyre': ./exterior/wheel-and-tyre.md
