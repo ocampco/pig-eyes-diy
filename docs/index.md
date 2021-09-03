@@ -6,7 +6,7 @@ Documentation for modifying the X30/X40 Toyota/Toyopet Mark II, Chaser, Cresta a
 
 The motivation for this site is to document **proven modifications.** All data has been crowdsourced and references have been provided.
 
-Thank you to all who have contributed. Please contact [@ocampus](https://www.instagram.com/ocampus/) for any additions, amendments or feedback.
+Thank you to all who have contributed. The site is being updated on a best effort basis. Please contact [@ocampus](https://www.instagram.com/ocampus/) for any additions, amendments or feedback :pray:
 
 ---
 
