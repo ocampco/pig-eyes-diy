@@ -15,6 +15,7 @@ Thank you to all who have contributed. Please contact [@ocampus](https://www.ins
 - [Suspension](./suspension/index.md)
 - [Exterior](./exterior/index.md)
 - [Electronics](./electronics/index.md)
+- [Interior](./interior/index.md)
 
 ---
 
@@ -24,6 +25,7 @@ Thank you to all who have contributed. Please contact [@ocampus](https://www.ins
     - [Electronics: Dashboard](./electronics/dashboard.md)
     - [Electronics: Wiring](./electronics/wiring.md)
     - [Suspension: Lower Control Arms](./suspension/lower-control-arms.md)
+    - [Interior: Seats](./interior/seats.md)
 
 !!! example "Backlog"
     - Wheel and Tyre: Tyre

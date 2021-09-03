@@ -44,5 +44,8 @@ nav:
     - ./exterior/index.md
   - Electronics:
     - ./electronics/index.md
-    - 'Dashboard': ./electronics/dashboard.md
-    - 'Wiring': ./electronics/wiring.md
+    - Dashboard: ./electronics/dashboard.md
+    - Wiring: ./electronics/wiring.md
+  - Interior:
+    - ./interior/index.md
+    - Seats: ./interior/seats.md
