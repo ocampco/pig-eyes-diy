@@ -2,7 +2,7 @@
 
 #### Related Content
 
-- [Front Lower Control Arms](front-lower-control-arms.md)
+- [Steering Arms](steering-arms.md)
 - [Front Coilovers](front-coilovers.md)
 - [Rear Springs](rear-springs.md)
 

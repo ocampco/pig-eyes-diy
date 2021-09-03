@@ -37,7 +37,7 @@ nav:
   - Suspension:
     - ./suspension/index.md
     - 'Front Coilovers': ./suspension/front-coilovers.md
-    - 'Front Lower Control Arms': ./suspension/front-lower-control-arms.md
+    - 'Steering Arms': ./suspension/steering-arms.md
     - 'Rear Shocks': ./suspension/rear-shocks.md
     - 'Rear Springs': ./suspension/rear-springs.md
   - Exterior:

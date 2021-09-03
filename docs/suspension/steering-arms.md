@@ -1,4 +1,4 @@
-# Front Lower Control Arms
+# Steering arms
 
 #### Related Content
 
@@ -18,7 +18,7 @@
 
 !!! info "Key Information"
     - Bolt spacing: `90mm`
-    - Also known as front 'LCA'
+    - Also known as front 'knuckles'
 
 ## TechnoToyTuning (T3)
 
@@ -29,11 +29,11 @@
 - Adjustable ackerman
 - Adjustable 'steering reaction'
 
-![TechnoToyTuning (T3) front lower control arms 1](./img/suspension-front-lower-control-arms-t3-1.jpg)
+![TechnoToyTuning (T3) steering arms 1](./img/suspension-steering-arms-t3-1.jpg)
 
-![TechnoToyTuning (T3) front lower control arms 2](./img/suspension-front-lower-control-arms-t3-2.jpg)
+![TechnoToyTuning (T3) steering arms 2](./img/suspension-steering-arms-t3-2.jpg)
 
-![TechnoToyTuning (T3) front lower control arms 3](./img/suspension-front-lower-control-arms-t3-3.jpg)
+![TechnoToyTuning (T3) steering arms 3](./img/suspension-steering-arms-t3-3.jpg)
 
 _Note: Stock vs T3 pictured (factory bump stops)_
 

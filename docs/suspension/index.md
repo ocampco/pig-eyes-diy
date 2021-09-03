@@ -5,6 +5,6 @@
 #### Content
 
 - [Front Coilovers](front-coilovers.md)
-- [Front Lower Control Arms](front-lower-control-arms.md)
+- [Steering Arms](steering-arms.md)
 - [Rear Shocks](rear-shocks.md)
 - [Rear Springs](rear-springs.md)
