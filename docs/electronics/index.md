@@ -1,6 +1,6 @@
 # Electronics
 
-![Electronics](./img/electronics-placeholder.jpg)
+![Electronics](./img/electronics-index.jpg)
 
 #### Content
 

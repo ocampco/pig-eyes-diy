@@ -1,6 +1,6 @@
 # Exterior
 
-![Exterior](./img/exterior-placeholder.jpg)
+![Exterior](./img/exterior-index.jpg)
 
 #### Table of Contents
 

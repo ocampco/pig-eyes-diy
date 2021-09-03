@@ -1,6 +1,6 @@
 # Interior
 
-![Interior](./img/interior-placeholder.jpg)
+![Interior](./img/interior-index.jpg)
 
 #### Content
 

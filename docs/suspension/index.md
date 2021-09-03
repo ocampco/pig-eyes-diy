@@ -1,6 +1,6 @@
 # Suspension
 
-![Suspension](./img/suspension-placeholder.jpg)
+![Suspension](./img/suspension-index.jpg)
 
 #### Content
 
