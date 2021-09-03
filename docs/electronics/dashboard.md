@@ -1,5 +1,9 @@
 # Dashboard
 
+#### Related Content
+
+- [Wiring](./wiring.md)
+
 #### Table of Contents
 
 [TOC]

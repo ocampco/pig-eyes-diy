@@ -22,9 +22,9 @@ Thank you to all who have contributed. Please contact [@ocampus](https://www.ins
 
 !!! success "Recently completed"
     - [Electronics: Dashboard](./electronics/dashboard.md)
+    - [Electronics: Wiring](./electronics/wiring.md)
 
 !!! example "Backlog"
-    - Electronics: Wiring Diagrams
     - Wheel and Tyre: Tyre
     - Wheel and Tyre: Wheel
     - Wheel and Tyre: Examples

@@ -44,3 +44,4 @@ nav:
   - Electronics:
     - ./electronics/index.md
     - 'Dashboard': ./electronics/dashboard.md
+    - 'Wiring': ./electronics/wiring.md
