@@ -12,7 +12,7 @@
     - Series 1: 1976-1978
     - Series 2: 1978-1980
 
-## Toyota Cressida/Mark II
+## Toyota/Toyopet Cressida/Mark II
 
 ### Series 1 - Australia
 
