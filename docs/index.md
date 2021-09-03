@@ -18,7 +18,7 @@ Thank you to all who have contributed. Please contact [@ocampus](https://www.ins
 
 ---
 
-## Changelog
+## Updates
 
 !!! success "Recently completed"
     - [Electronics: Dashboard](./electronics/dashboard.md)
