@@ -18,6 +18,7 @@
 
 !!! info "Key Information"
     - Bolt spacing: `90mm`
+    - Also known as front 'LCA'
 
 ## TechnoToyTuning (T3)
 
