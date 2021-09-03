@@ -12,6 +12,8 @@ theme:
     - navigation.tabs
     - navigation.top
     - toc.integrate
+  logo: ./assets/logo.png
+  favicon: ./assets/logo.png
 
 extra_css:
   - stylesheets/extra.css
