@@ -2,7 +2,7 @@
 
 ![ocampus MX32 Cressida](./assets/home-index.jpg)
 
-Documentation for the X30/X40 Toyota/Toyopet Mark II, Chaser, Cresta and Cressida. Also referred to as _'pig eyes'_ (豚目).
+Documentation for modifying the X30/X40 Toyota/Toyopet Mark II, Chaser, Cresta and Cressida. Also referred to as _'pig eyes'_ (豚目).
 
 The motivation for this site is to document **proven modifications.** All data has been crowdsourced and references have been provided.
 
