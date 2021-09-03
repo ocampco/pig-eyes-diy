@@ -25,7 +25,7 @@ Thank you to all who have contributed. Please contact [@ocampus](https://www.ins
 !!! success "Recently completed"
     - [Electronics: Dashboard](./electronics/dashboard.md)
     - [Electronics: Wiring](./electronics/wiring.md)
-    - [Suspension: Lower Control Arms](./suspension/lower-control-arms.md)
+    - [Suspension: Front Lower Control Arms](./suspension/front-lower-control-arms.md)
     - [Interior: Seats](./interior/seats.md)
     - [Wheel and Tyre: Tyres](./wheel-and-tyre/tyres.md)
 

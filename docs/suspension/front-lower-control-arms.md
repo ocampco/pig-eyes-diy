@@ -1,4 +1,4 @@
-# Lower Control Arms
+# Front Lower Control Arms
 
 #### Related Content
 
@@ -28,11 +28,11 @@
 - Adjustable ackerman
 - Adjustable 'steering reaction'
 
-![TechnoToyTuning (T3) lower control arms 1](./img/suspension-lower-control-arms-t3-1.jpg)
+![TechnoToyTuning (T3) front lower control arms 1](./img/suspension-front-lower-control-arms-t3-1.jpg)
 
-![TechnoToyTuning (T3) lower control arms 2](./img/suspension-lower-control-arms-t3-2.jpg)
+![TechnoToyTuning (T3) front lower control arms 2](./img/suspension-front-lower-control-arms-t3-2.jpg)
 
-![TechnoToyTuning (T3) lower control arms 3](./img/suspension-lower-control-arms-t3-3.jpg)
+![TechnoToyTuning (T3) front lower control arms 3](./img/suspension-front-lower-control-arms-t3-3.jpg)
 
 _Note: Stock vs T3 pictured (factory bump stops)_
 
