@@ -49,7 +49,7 @@ _Source: [Goonet](https://www.goo-net-exchange.com/usedcars/TOYOTA/MARK_II/70095
 
 _Source: [Jack Nyland](https://www.facebook.com/groups/216354961906562/posts/499829773559078/)_
 
-### Series 1 - USA
+### Series 1 - North America
 
 !!! example "Unique parts"
     - Front and rear bumper plastic overriders
@@ -57,10 +57,10 @@ _Source: [Jack Nyland](https://www.facebook.com/groups/216354961906562/posts/499
     - Rear license plate light
     - Side markers
 
-![MX32 Cressida USA](./img/exterior-front-mx32-s1-usa.jpg)
+![MX32 Cressida North America](./img/exterior-front-mx32-s1-na.jpg)
 
 _Source: [Meekzilla Paul](https://www.facebook.com/groups/216354961906562/posts/1639019792973398/)_
 
-![MX32 Cressida USA](./img/exterior-rear-mx32-s1-usa.jpg)
+![MX32 Cressida North America](./img/exterior-rear-mx32-s1-na.jpg)
 
 _Source: [Meekzilla Paul](https://www.facebook.com/groups/216354961906562/posts/1340269992848381/)_
