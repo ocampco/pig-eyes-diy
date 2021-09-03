@@ -17,7 +17,7 @@
     - Bump stops can be removed for more angle
 
 !!! info "Key Information"
-    - Lower bolt spacing: `90mm`
+    - Bolt spacing: `90mm`
 
 ## TechnoToyTuning (T3)
 
