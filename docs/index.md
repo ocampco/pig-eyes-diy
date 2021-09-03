@@ -16,6 +16,7 @@ Thank you to all who have contributed. Please contact [@ocampus](https://www.ins
 - [Exterior](./exterior/index.md)
 - [Electronics](./electronics/index.md)
 - [Interior](./interior/index.md)
+- [Wheel and Tyre](./wheel-and-tyre/index.md)
 
 ---
 
