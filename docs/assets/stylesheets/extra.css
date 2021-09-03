@@ -13,28 +13,26 @@ h6 > a.toc-permalink-override {
 }
 
 /* toc - headings and content */
-@media (max-width: 480px) {
-  .md-content__inner > h4 + .toc,
-  .md-content__inner > h4 + ul {
-    display: block !important;
-  }
-
-  #table-of-contents,
-  #topics,
-  #related-topics {
-    display: block !important;
-  }
-}
-
-.md-content__inner > h4 + .toc,
-.md-content__inner > h4 + ul {
-  display: none;
+#table-of-contents + .toc,
+#related-topics + ul {
+  display: block;
 }
 
 #table-of-contents,
-#topics,
 #related-topics {
-  display: none;
+  display: block;
+}
+
+@media (min-width: 76.25rem) {
+  #table-of-contents + .toc,
+  #related-topics + ul {
+    display: none !important;
+  }
+
+  #table-of-contents,
+  #related-topics {
+    display: none !important;
+  }
 }
 
 /* mkdocs-material */
