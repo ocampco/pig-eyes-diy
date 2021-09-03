@@ -26,7 +26,7 @@
 - May come with stub axles pending stock
 - Custom spring rate available
 
-![TechnoToyTuning front coilovers on MX32 Cressida](./img/front-coilovers-t3-techno-toy-tuning.jpg)
+![TechnoToyTuning front coilovers on MX32 Cressida](./img/suspension-front-coilovers-t3-techno-toy-tuning.jpg)
 
 ## MX73 Cressida
 
@@ -34,7 +34,7 @@
 - Camber adjustment will sit on a 45 degree angle
 - Requires a shorter spring or coilover casing to go super low
 
-![MX73 Cressida front coilovers on MX32 Cressida](./img/front-coilovers-mx73.jpg)
+![MX73 Cressida front coilovers on MX32 Cressida](./img/suspension-front-coilovers-mx73.jpg)
 
 _Source: [@ocampus](https://www.instagram.com/ocampus/)_
 
@@ -47,6 +47,6 @@ _Source: [@ocampus](https://www.instagram.com/ocampus/)_
 
     _- [@dooogs73](https://www.instagram.com/dooogs73/)_
 
-![S13 Silvia front camber tops on MX32 Cressida](./img/front-coilovers-s13.jpg)
+![S13 Silvia front camber tops on MX32 Cressida](./img/suspension-front-coilovers-s13.jpg)
 
 _Source: [@dooogs73](https://www.instagram.com/dooogs73/)_
