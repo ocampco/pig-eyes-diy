@@ -21,7 +21,7 @@
 
 ##  MX32 Cressida
 
-- Offered by [TechnoToyTuning](https://technotoytuning.com/toyota/mx32/front-coilover-conversion-mx32-cressida)
+- Offered by [TechnoToyTuning (T3)](https://technotoytuning.com/toyota/mx32/front-coilover-conversion-mx32-cressida)
 - Strut tower holes don't require modification
 - May come with stub axles pending stock
 - Custom spring rate available
