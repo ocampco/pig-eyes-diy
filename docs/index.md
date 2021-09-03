@@ -26,9 +26,9 @@ Thank you to all who have contributed. Please contact [@ocampus](https://www.ins
     - [Electronics: Wiring](./electronics/wiring.md)
     - [Suspension: Lower Control Arms](./suspension/lower-control-arms.md)
     - [Interior: Seats](./interior/seats.md)
+    - [Wheel and Tyre: Tyres](./wheel-and-tyre/tyres.md)
 
 !!! example "Backlog"
-    - Wheel and Tyre: Tyre
     - Wheel and Tyre: Wheel
     - Wheel and Tyre: Examples
 
