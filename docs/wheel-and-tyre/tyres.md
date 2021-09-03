@@ -6,15 +6,15 @@
 
 ---
 
-## Profiles
-
 !!! info "Key Information"
     Stock tyre size: 175/75r14
 
-!!! tip "Formula"
-        **Sidewall height (mm)** = ( Tyre width * ( Tyre profile / 100 ) ) * 2
+## Profiles
 
-        **Overall height (mm)** = Rim height (mm) + sidewall height
+!!! tip "Formula"
+        Sidewall height (mm) = `( Tyre width * ( Tyre profile / 100 ) ) * 2`
+
+        Overall height (mm) = `Rim height (mm) + sidewall height`
 
         _Example:_
 
