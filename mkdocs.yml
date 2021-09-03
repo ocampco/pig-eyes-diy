@@ -16,7 +16,7 @@ theme:
   favicon: ./assets/logo.png
 
 extra_css:
-  - stylesheets/extra.css
+  - ./assets/stylesheets/extra.css
 
 markdown_extensions:
   - toc:
@@ -36,7 +36,9 @@ nav:
   - Home: index.md
   - Suspension:
     - ./suspension/index.md
-    - Coilovers: ./suspension/coilovers.md
+    - 'Front Coilovers': ./suspension/front-coilovers.md
+    - 'Rear Shocks': ./suspension/rear-shocks.md
+    - 'Rear Springs': ./suspension/rear-springs.md
   - Exterior:
     - ./exterior/index.md
     - 'Wheel and Tyre': ./exterior/wheel-and-tyre.md

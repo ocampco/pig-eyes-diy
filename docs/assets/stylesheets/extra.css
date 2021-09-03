@@ -1,9 +1,10 @@
-/* toc */
+/* toc - permalink */
 .toc-permalink-override {
   margin-left: 0.5rem;
   font-size: 75%;
 }
 
+/* toc - icon */
 h1 > a.toc-permalink-override,
 h4 > a.toc-permalink-override,
 h5 > a.toc-permalink-override,
@@ -11,13 +12,28 @@ h6 > a.toc-permalink-override {
   display: none;
 }
 
+/* toc - headings and content */
 @media (max-width: 480px) {
-  h1 + .toc {
+  .md-content__inner > h4 + .toc,
+  .md-content__inner > h4 + ul {
+    display: block !important;
+  }
+
+  #table-of-contents,
+  #topics,
+  #related-topics {
     display: block !important;
   }
 }
 
-h1 + .toc {
+.md-content__inner > h4 + .toc,
+.md-content__inner > h4 + ul {
+  display: none;
+}
+
+#table-of-contents,
+#topics,
+#related-topics {
   display: none;
 }
 

@@ -1,5 +1,7 @@
 # Dashboard
 
+#### Table of Contents
+
 [TOC]
 
 ---
