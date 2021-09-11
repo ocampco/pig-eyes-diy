@@ -2,72 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/electronics/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/electronics/dashboard/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/electronics/wiring/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/exterior/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/interior/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/interior/seats/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/suspension/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/suspension/front-coilovers/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/suspension/rear-shocks/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/suspension/rear-springs/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/suspension/steering-arms/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/wheel-and-tyre/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ocampco.github.io/pig-eyes-diy/wheel-and-tyre/refurbishing-wheels/</loc>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ocampco.github.io/pig-eyes-diy/wheel-and-tyre/tyres/</loc>
-         <lastmod>2021-09-03</lastmod>
+         <lastmod>2021-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
