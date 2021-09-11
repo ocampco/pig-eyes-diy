@@ -59,11 +59,11 @@ _Source: [Matthew Long](https://www.facebook.com/groups/216354961906562/posts/10
 !!! quote
     My springs front and rear are ra60 they go straight in. Rides fine for springs
 
-    _- [Matthew Sammut](facebook.com/matthew.sammut.927)_
+    _- [Matthew Sammut](https://www.facebook.com/matthew.sammut.927)_
 
 ![RA60 Celica rear springs on MX32 Cressida](./img/suspension-rear-springs-ra60-matthew-sammut.jpg)
 
-_Source: [Matthew Sammut](facebook.com/matthew.sammut.927)_
+_Source: [Matthew Sammut](https://www.facebook.com/matthew.sammut.927)_
 
 !!! quote
     Yeah I have ra60 king springs in the rear and it rides and sits fine
