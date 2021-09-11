@@ -1,5 +1,9 @@
 # Tyres
 
+#### Related Content
+
+- [Refurbishing Wheels](refurbishing-wheels.md)
+
 #### Table of Contents
 
 [TOC]

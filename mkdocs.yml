@@ -52,3 +52,4 @@ nav:
   - 'Wheel and Tyre':
     - ./wheel-and-tyre/index.md
     - Tyres: ./wheel-and-tyre/tyres.md
+    - 'Refurbishing Wheels': ./wheel-and-tyre/refurbishing-wheels.md
