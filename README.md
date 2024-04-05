@@ -1,10 +1,7 @@
 # :pig: pig-eyes-diy
 
-Documentation site using [mkdocs](https://github.com/mkdocs/mkdocs)
-
-### Links
-
-- [Production](https://ocampco.github.io/pig-eyes-diy/)
+- Documentation site using [mkdocs](https://github.com/mkdocs/mkdocs)
+- Deployed with [Github Pages](https://ocampco.github.io/pig-eyes-diy/)
 
 ## :runner: Running
 
