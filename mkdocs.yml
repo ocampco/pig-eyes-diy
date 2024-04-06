@@ -3,6 +3,9 @@ site_url: https://ocampco.github.io/pig-eyes-diy
 site_description: Resource for Toyota/Toyopet Mark II, Chaser, Cresta and Cressida
 site_author: ocampco
 
+repo_url: https://github.com/ocampco/pig-eyes-diy
+repo_name: ocampco/pig-eyes-diy
+
 theme:
   name: material
   palette:
@@ -14,6 +17,8 @@ theme:
     - toc.integrate
   logo: ./assets/logo.png
   favicon: ./assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
 
 extra_css:
   - ./assets/extra.css
@@ -29,6 +34,7 @@ markdown_extensions:
   - pymdownx.details
 
 plugins:
+  - search
   - section-index
   - git-revision-date-localized
 
