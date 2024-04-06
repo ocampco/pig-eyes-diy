@@ -2,6 +2,6 @@
 
 ![Exterior](./img/exterior-index.jpg)
 
-#### Table of Contents
+#### Content
 
-[TOC]
+- [Series 1](./series-1.md)
