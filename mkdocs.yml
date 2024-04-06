@@ -15,6 +15,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.instant
+    - navigation.indexes
     - toc.integrate
   logo: ./assets/logo.png
   favicon: ./assets/logo.png
@@ -36,7 +37,6 @@ markdown_extensions:
 
 plugins:
   - search
-  - section-index
   - git-revision-date-localized
 
 nav:
@@ -49,6 +49,7 @@ nav:
     - 'Rear Springs': ./suspension/rear-springs.md
   - Exterior:
     - ./exterior/index.md
+    - 'Series 1': ./exterior/series-1.md
   - Electronics:
     - ./electronics/index.md
     - Dashboard: ./electronics/dashboard.md
