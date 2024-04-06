@@ -1,6 +1,6 @@
 # :pig: pig-eyes-diy
 
-![Build Status](https://github.com/ocampco/pig-eyes-diy/actions/workflows/ci.yml/badge.svg)
+[![Build status](https://github.com/ocampco/pig-eyes-diy/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ocampco/pig-eyes-diy/actions/workflows/ci.yml)
 
 Documentation site using [mkdocs](https://github.com/mkdocs/mkdocs), deployed to [Github Pages](https://ocampco.github.io/pig-eyes-diy/)
 
