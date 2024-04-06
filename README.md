@@ -31,7 +31,9 @@ $ ./auto/build
 $ ./auto/run
 ```
 
-## :ship: Deployment
+## :ship: Manual Deployment
+
+New commits on the `main` branch are automatically deployed using [Github Actions](https://github.com/ocampco/pig-eyes-diy/actions)
 
 ```sh
 # Deploy using local
