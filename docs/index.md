@@ -23,7 +23,7 @@ Thank you to all who have contributed. The site is being updated on a best effor
 ## Updates
 
 !!! success "Recently completed"
-    - [Wheel and Tyre: Refurbishing Wheels](./wheel-and-tyre/refurbishing-wheels.md)
+    - Search functionality added
 
 !!! example "Backlog"
     - Wheel and Tyre: Wheel
