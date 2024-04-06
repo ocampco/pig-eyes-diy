@@ -38,12 +38,3 @@ h4#content,
     display: none !important;
   }
 }
-
-/* mkdocs-material */
-.md-content {
-  max-width: 768px;
-}
-
-footer {
-  display: none;
-}
