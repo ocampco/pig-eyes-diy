@@ -1,7 +1,8 @@
 # :pig: pig-eyes-diy
 
-- Documentation site using [mkdocs](https://github.com/mkdocs/mkdocs)
-- Deployed with [Github Pages](https://ocampco.github.io/pig-eyes-diy/)
+![Build Status](https://github.com/ocampco/pig-eyes-diy/actions/workflows/ci.yml/badge.svg)
+
+Documentation site using [mkdocs](https://github.com/mkdocs/mkdocs), deployed to [Github Pages](https://ocampco.github.io/pig-eyes-diy/)
 
 ## :runner: Running
 
