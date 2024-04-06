@@ -12,11 +12,12 @@ theme:
     primary: white
     accent: pink
   features:
-    - navigation.tabs
     - navigation.top
     - navigation.instant
     - navigation.indexes
     - toc.integrate
+    - search.suggest
+    - search.highlight
   logo: ./assets/logo.png
   favicon: ./assets/logo.png
   icon:
@@ -61,3 +62,8 @@ nav:
     - ./wheel-and-tyre/index.md
     - Tyres: ./wheel-and-tyre/tyres.md
     - 'Refurbishing Wheels': ./wheel-and-tyre/refurbishing-wheels.md
+
+extra:
+  analytics:
+    provider: google
+    property: G-96Q2TMF4ZS
