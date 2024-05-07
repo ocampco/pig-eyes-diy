@@ -29,6 +29,8 @@
 
 ![MX62 Cressida front seats in MX32 Cressida](./img/interior-seats-mx62-front-seat-5.jpg)
 
+_Source: [Jordy Taylor](https://www.facebook.com/groups/216354961906562/posts/2325213597687344/)_
+
 !!! quote
     Back seat hung on hooks, bolt holes lined up and base lined up with spring locks
 
@@ -41,6 +43,8 @@
 ![MX62 Cressida back seat in MX32 Cressida](./img/interior-seats-mx62-back-seat-3.jpg)
 
 ![MX62 Cressida back seat in MX32 Cressida](./img/interior-seats-mx62-back-seat-4.jpg)
+
+_Source: [Jordy Taylor](https://www.facebook.com/groups/216354961906562/posts/2325213597687344/)_
 
 ## MX73 Cressida
 
