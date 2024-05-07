@@ -4,4 +4,5 @@
 
 #### Content
 
+- [Accelerator Pedal](accelerator-pedal.md)
 - [Seats](seats.md)

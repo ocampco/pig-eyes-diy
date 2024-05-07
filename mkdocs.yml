@@ -58,6 +58,7 @@ nav:
   - Interior:
     - ./interior/index.md
     - Seats: ./interior/seats.md
+    - 'Accelerator Pedal': ./interior/accelerator-pedal.md
   - 'Wheel and Tyre':
     - ./wheel-and-tyre/index.md
     - Tyres: ./wheel-and-tyre/tyres.md
