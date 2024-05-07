@@ -50,6 +50,7 @@ nav:
     - 'Rear Springs': ./suspension/rear-springs.md
   - Exterior:
     - ./exterior/index.md
+    - 'Rear Bumper': ./exterior/rear-bumper.md
     - 'Series 1': ./exterior/series-1.md
   - Electronics:
     - ./electronics/index.md

@@ -25,6 +25,7 @@ Thank you to all who have contributed. The site is being updated on a best effor
 !!! success "Recently completed"
     - Search functionality added
     - MX62 accelerator pedal
+    - MX36 rear bumper
 
 !!! example "Backlog"
     - Wheel and Tyre: Wheel
