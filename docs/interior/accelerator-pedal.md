@@ -6,10 +6,10 @@
 
 ---
 
-## MX62 Cressida (ADM)
+## MX62 Cressida Series 2 (ADM)
 
 !!! quote
-    - Direct bolt in to MX32. 
+    - Direct bolt in to MX32
     - Gives you a cable instead of the linkage setup
     - Good for engine conversion or aftermarket carby
 
